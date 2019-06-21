@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/${PROJECT_DIR_NAME}</path>
+</pydev_pathproperty>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython 2.7</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>C:\javaLibs\ASysTools.jar</path>
+<path>C:\javaLibs\commons-compress-1.18.jar</path>
+<path>C:\javaLibs\httpclient-4.5.6.jar</path>
+<path>C:\javaLibs\httpcore-4.4.10.jar</path>
+<path>C:\javaLibs\ojdbc8.jar</path>
+<path>C:\javaLibs\okhttp-3.9.0.jar</path>
+<path>C:\javaLibs\okio-1.13.0.jar</path>
+<path>C:\javaLibs\commons-codec-1.11.jar</path>
+<path>C:\javaLibs\commons-lang3-3.8.1.jar</path>
+<path>C:\javaLibs\commons-logging-1.2.jar</path>
+<path>C:\javaLibs\opencsv-1.7.jar</path>
+</pydev_pathproperty>
+</pydev_project>
